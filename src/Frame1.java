@@ -36,6 +36,7 @@ public class Frame1 extends JFrame {
 
 	private JPanel contentPane;
 	
+	String rifqi;
 	double masCitizen = 0.0;
 	double priceAdult = 0.0;
 	double priceChildren = 0.0;
